@@ -1,0 +1,7 @@
+09-Aug-2018 06:12:28.691 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/d5zpzqceljbhz9syxowfbqdme9kxo5.war]
+09-Aug-2018 06:12:29.059 INFO [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/d5zpzqceljbhz9syxowfbqdme9kxo5.war] has finished in [290] ms
+09-Aug-2018 06:12:40.955 INFO [http-nio-8080-exec-49] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/d5zpzqceljbhz9syxowfbqdme9kxo5]
+09-Aug-2018 18:45:45.901 WARNING [http-nio-8080-exec-58] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user []
+09-Aug-2018 18:49:36.911 INFO [http-nio-8080-exec-61] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/s1a9k4z1c6onuv7oifbacgcz0lgs74.war]
+09-Aug-2018 18:49:37.241 INFO [http-nio-8080-exec-61] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/s1a9k4z1c6onuv7oifbacgcz0lgs74.war] has finished in [330] ms
+09-Aug-2018 18:49:51.359 INFO [http-nio-8080-exec-62] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/s1a9k4z1c6onuv7oifbacgcz0lgs74]

@@ -1,0 +1,3 @@
+24-Aug-2018 02:51:50.343 INFO [http-nio-8181-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+24-Aug-2018 02:52:07.605 INFO [http-nio-8181-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+24-Aug-2018 11:37:19.316 INFO [http-nio-8181-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,16 @@
+24-Aug-2018 02:52:06.094 INFO [http-nio-8181-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/BankingWebService.war]
+24-Aug-2018 02:52:07.605 INFO [http-nio-8181-exec-7] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/BankingWebService.war] has finished in [1,511] ms
+24-Aug-2018 16:12:21.411 INFO [http-nio-8181-exec-1] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+

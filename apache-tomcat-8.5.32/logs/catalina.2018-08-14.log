@@ -1,0 +1,8 @@
+14-Aug-2018 07:59:35.779 INFO [http-nio-8080-exec-134] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/94rybaslzwrxbhy2emgi2xv9uwtrac.war]
+14-Aug-2018 07:59:36.231 INFO [http-nio-8080-exec-134] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/94rybaslzwrxbhy2emgi2xv9uwtrac.war] has finished in [452] ms
+14-Aug-2018 07:59:47.508 INFO [http-nio-8080-exec-136] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/94rybaslzwrxbhy2emgi2xv9uwtrac]
+14-Aug-2018 08:01:51.935 INFO [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/7tnogubjzifeymh8f3o0yqipa3izfb.war]
+14-Aug-2018 08:01:52.144 INFO [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/7tnogubjzifeymh8f3o0yqipa3izfb.war] has finished in [367] ms
+14-Aug-2018 21:14:42.174 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/dwo5izczvqkjz1xcuzpny9djb9071i.war]
+14-Aug-2018 21:14:42.624 INFO [http-nio-8080-exec-146] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/dwo5izczvqkjz1xcuzpny9djb9071i.war] has finished in [450] ms
+14-Aug-2018 21:14:53.686 INFO [http-nio-8080-exec-147] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/dwo5izczvqkjz1xcuzpny9djb9071i]

@@ -1,0 +1,5 @@
+15-Aug-2018 00:21:47.471 WARNING [http-nio-8080-exec-159] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user []
+15-Aug-2018 13:20:22.034 INFO [http-nio-8080-exec-155] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/DemoAPI.war]
+15-Aug-2018 13:20:22.529 INFO [http-nio-8080-exec-155] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/DemoAPI.war] has finished in [495] ms
+15-Aug-2018 13:21:21.350 INFO [http-nio-8080-exec-155] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DemoAPI]
+15-Aug-2018 13:21:25.569 INFO [http-nio-8080-exec-161] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/DemoJSP]

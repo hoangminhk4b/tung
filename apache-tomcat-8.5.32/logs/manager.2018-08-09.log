@@ -1,0 +1,8 @@
+09-Aug-2018 06:12:27.461 INFO [http-nio-8080-exec-44] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2018 06:12:29.059 INFO [http-nio-8080-exec-48] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2018 06:12:40.262 INFO [http-nio-8080-exec-49] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/d5zpzqceljbhz9syxowfbqdme9kxo5'
+09-Aug-2018 06:12:40.957 INFO [http-nio-8080-exec-49] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2018 18:49:35.392 INFO [http-nio-8080-exec-60] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2018 18:49:37.241 INFO [http-nio-8080-exec-61] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2018 18:49:50.418 INFO [http-nio-8080-exec-62] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/s1a9k4z1c6onuv7oifbacgcz0lgs74'
+09-Aug-2018 18:49:51.360 INFO [http-nio-8080-exec-62] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'

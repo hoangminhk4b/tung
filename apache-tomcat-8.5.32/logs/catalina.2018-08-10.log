@@ -1,0 +1,4 @@
+10-Aug-2018 05:13:27.213 WARNING [http-nio-8080-exec-65] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [admin]
+10-Aug-2018 13:25:54.917 INFO [http-nio-8080-exec-69] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/yqoqwplnig1uygfewhm1x32b2jomfy.war]
+10-Aug-2018 13:25:55.247 INFO [http-nio-8080-exec-69] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/yqoqwplnig1uygfewhm1x32b2jomfy.war] has finished in [330] ms
+10-Aug-2018 13:26:06.835 INFO [http-nio-8080-exec-70] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/yqoqwplnig1uygfewhm1x32b2jomfy]

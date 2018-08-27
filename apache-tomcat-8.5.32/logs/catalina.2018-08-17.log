@@ -1,0 +1,14 @@
+17-Aug-2018 04:28:18.143 WARNING [http-nio-8080-exec-178] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user []
+17-Aug-2018 04:28:19.171 WARNING [http-nio-8080-exec-176] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [root]
+17-Aug-2018 04:28:19.211 WARNING [http-nio-8080-exec-177] org.apache.catalina.realm.LockOutRealm.filterLockedAccounts An attempt was made to authenticate the locked user [root]
+17-Aug-2018 10:25:45.233 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/jtq6gi8axs9fnd4u1eilsddbasv012.war]
+17-Aug-2018 10:25:45.601 INFO [http-nio-8080-exec-179] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/jtq6gi8axs9fnd4u1eilsddbasv012.war] has finished in [368] ms
+17-Aug-2018 10:25:56.892 INFO [http-nio-8080-exec-178] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/jtq6gi8axs9fnd4u1eilsddbasv012]
+17-Aug-2018 12:23:16.915 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+17-Aug-2018 12:23:16.916 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Aug-2018 12:23:17.158 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+17-Aug-2018 12:23:17.244 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+17-Aug-2018 12:23:17.986 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Aug-2018 12:23:18.147 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+17-Aug-2018 12:23:18.148 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+17-Aug-2018 12:23:18.186 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

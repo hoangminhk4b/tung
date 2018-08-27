@@ -1,0 +1,26 @@
+13-Aug-2018 00:24:46.105 INFO [http-nio-8080-exec-96] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/ie3k68dtuj1zhpa1iu6p8jtmfhgwhr.war]
+13-Aug-2018 00:24:46.515 INFO [http-nio-8080-exec-96] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/ie3k68dtuj1zhpa1iu6p8jtmfhgwhr.war] has finished in [332] ms
+13-Aug-2018 00:24:57.520 INFO [http-nio-8080-exec-97] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/ie3k68dtuj1zhpa1iu6p8jtmfhgwhr]
+13-Aug-2018 04:44:19.302 INFO [http-nio-8080-exec-112] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:428)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:684)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:800)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1471)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+13-Aug-2018 07:27:03.165 INFO [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/d2m797xiwtcbo64fr2lf8z7dci59hh.war]
+13-Aug-2018 07:27:03.617 INFO [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/d2m797xiwtcbo64fr2lf8z7dci59hh.war] has finished in [452] ms
+13-Aug-2018 07:27:16.089 INFO [http-nio-8080-exec-111] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/d2m797xiwtcbo64fr2lf8z7dci59hh]
+13-Aug-2018 12:08:35.952 INFO [http-nio-8080-exec-120] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/o0639y1s3zc5dr8ws79cieouym8bn1.war]
+13-Aug-2018 12:08:36.275 INFO [http-nio-8080-exec-120] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/o0639y1s3zc5dr8ws79cieouym8bn1.war] has finished in [323] ms
+13-Aug-2018 12:08:47.630 INFO [http-nio-8080-exec-121] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/o0639y1s3zc5dr8ws79cieouym8bn1]
+13-Aug-2018 20:25:50.857 INFO [http-nio-8080-exec-130] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/2jxtwt6voaaqzabo4cicnq1gt3lu1v.war]
+13-Aug-2018 20:25:51.555 INFO [http-nio-8080-exec-130] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/hoangminhk4b/Tung/apache-tomcat-8.5.32/webapps/2jxtwt6voaaqzabo4cicnq1gt3lu1v.war] has finished in [620] ms
+13-Aug-2018 20:26:03.708 INFO [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/2jxtwt6voaaqzabo4cicnq1gt3lu1v]
